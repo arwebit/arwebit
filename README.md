@@ -36,9 +36,3 @@ As a dedicated Software Developer and passionate Online Tutor, I have honed a di
 ### My Github Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=arwebit&theme=dracula)](https://git.io/streak-stats)
-
-[![Soumyanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arwebit)](https://github.com/arwebit/github-readme-stats)
-
-[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=arwebit&layout=pie)](https://github.com/arwebit/github-readme-stats)
-
-
