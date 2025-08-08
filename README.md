@@ -31,8 +31,3 @@ As a dedicated Software Developer and passionate Online Tutor, I have honed a di
 
 *Preferred style: Formal, Friendly, Creative, Emotional*
 
----
-
-### My Github Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=arwebit&theme=dracula)](https://git.io/streak-stats)
