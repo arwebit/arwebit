@@ -9,7 +9,7 @@ As a dedicated Software Developer and passionate Online Tutor, I have honed a di
 ## Professional Skills
 
 - **Frontend**: Angular, Ionic, React
-- **Backend**: Node.js, Express, PHP, Lumen
+- **Backend**: Node.js, Express, PHP, Laravel
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
 ## Achievements
